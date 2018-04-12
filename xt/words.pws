@@ -213,6 +213,7 @@ cpointer
 cpus
 createonly
 crlf
+cron
 crontab
 css
 cstruct
@@ -547,6 +548,7 @@ jpeg
 jpegs
 jpg
 jquery
+js
 json
 junctive
 jvm
